@@ -13,7 +13,7 @@ doc/*.tag
 doc/*.inc
 doc/doxygen.conf
 tests/.tests
-tests/cppTest
+tests/logTest
 version.py
 .coverage
 *.gcda
